@@ -1,0 +1,28 @@
+{
+  "name": "@gentlemen/components",
+  "version": "0.0.0",
+  "description": "Components with React, Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalgos/gentlemen-components.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "rollup",
+    "components"
+  ],
+  "author": "dalgos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalgos/gentlemen-components/issues"
+  },
+  "homepage": "https://github.com/dalgos/gentlemen-components#readme",
+  "dependencies": {
+    "lerna": "^3.15.0"
+  }
+}
