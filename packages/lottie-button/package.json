@@ -24,7 +24,8 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "prepublishOnly": "in-publish && npm run build"
   },
   "bugs": {
     "url": "https://github.com/dalgos/gentlemen-components/issues"
@@ -47,5 +48,8 @@
     "styled-components": "^4.3.1",
     "typescript": "^3.5.2"
   },
-  "gitHead": "6db4616f1d6c169a63af957b37a837aacb21ded3"
+  "gitHead": "6db4616f1d6c169a63af957b37a837aacb21ded3",
+  "dependencies": {
+    "in-publish": "^2.0.0"
+  }
 }
