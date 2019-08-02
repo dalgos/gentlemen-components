@@ -1,6 +1,6 @@
 {
   "name": "@gentlemen/lottie-button",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Lottie Button Component with React, Typescript",
   "author": "dalgos <function.bind@gmail.com>",
   "homepage": "https://github.com/dalgos/gentlemen-components/tree/master/packages/lottie-button#readme",
